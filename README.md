@@ -1,16 +1,24 @@
-## Hi there 👋
+# 👋 Olá! Eu sou Fernando Caldas
 
-<!--
-**FernandoCaldas9/FernandoCaldas9** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Estudante de Engenharia de Software  
+💻 Formação Full Stack em andamento (One Bit Code)  
+🌎 Fluente em Espanhol | Apaixonado por tecnologia, bots e desenvolvimento web  
+🚀 Em busca de criar soluções modernas e eficientes com código limpo
 
-Here are some ideas to get you started:
+## 🏅 Certificados
+_ Curso HTML - One Bit Code
+- Curso Start Python - One Bit Code
+- Full Stack Developer – One Bit Code *(PDF em breve)*
+- Git e GitHub – One Bit Code
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Tecnologias
+
+![HTML](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
+![Python](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+
+
+## 📫 Contato
+
+[LinkedIn]
+[Email](fndcaldas@gmail.com)

@@ -6,10 +6,10 @@
 🚀 Em busca de criar soluções modernas e eficientes com código limpo
 
 ## 🏅 Certificados
-_ Curso HTML - One Bit Code
+- Curso HTML - One Bit Code
 - Curso Start Python - One Bit Code
 - Full Stack Developer – One Bit Code *(PDF em breve)*
-- Git e GitHub – One Bit Code
+
 
 ## 🚀 Tecnologias
 

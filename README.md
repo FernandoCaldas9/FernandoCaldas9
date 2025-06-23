@@ -7,6 +7,7 @@
 
 ## 🏅 Certificados
 - Curso HTML - One Bit Code
+- HTML 5 - One Bit Code
 - Curso Start Python - One Bit Code
 - Full Stack Developer – One Bit Code *(PDF em breve)*
 
@@ -14,6 +15,7 @@
 ## 🚀 Tecnologias
 
 [HTML](https://github.com/FernandoCaldas9/FernandoCaldas9/blob/main/certificado_HTML_FernandoCaldasDaSilva%20(1).pdf#:~:text=LEIA%2DME.md-,certificado_HTML_FernandoCaldasDaSilva,-(1).pdf)
+[HTML 5]
 [CSS](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
 [Python](https://github.com/FernandoCaldas9/FernandoCaldas9#:~:text=certificado_Start%2DPython_FernandoCaldasDaSilva.pdf)
 

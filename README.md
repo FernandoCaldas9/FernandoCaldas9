@@ -15,7 +15,7 @@
 ## 🚀 Tecnologias
 
 [HTML](https://github.com/FernandoCaldas9/FernandoCaldas9/blob/main/certificado_HTML_FernandoCaldasDaSilva%20(1).pdf#:~:text=LEIA%2DME.md-,certificado_HTML_FernandoCaldasDaSilva,-(1).pdf)
-[HTML 5] certificado_HTML5_FernandoCaldasDaSilva12h.pdf
+[HTML 5] https://github.com/FernandoCaldas9/FernandoCaldas9/blob/main/certificado_HTML5_FernandoCaldasDaSilva12h.pdf
 [CSS](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
 [Python](https://github.com/FernandoCaldas9/FernandoCaldas9#:~:text=certificado_Start%2DPython_FernandoCaldasDaSilva.pdf)
 

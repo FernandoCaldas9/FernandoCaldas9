@@ -1,5 +1,6 @@
 <!-- Banner Animado -->
-<img src="https://github.com/FernandoCaldas9/FernandoCaldas9/blob/main/banner_fernando_caldas.png?raw=true" alt="Fernando Caldas Banner" style="width:100%;"/>
+
+<img src="https://github.com/FernandoCaldas9/FernandoCaldas9/blob/main/A_digital_graphic_banner_showcases_Fernando_Caldas.png?raw=true" alt="Fernando Caldas Banner" style="width:100%;"/>
 
 
 <h2 align="center">👋 Olá! Eu sou o Fernando Caldas</h2>

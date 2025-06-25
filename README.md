@@ -1,8 +1,7 @@
 <!-- Banner Animado -->
-<img src="https://github.com/FernandoCaldas9/FernandoCaldas9/blob/main/A_digital_graphic_banner_showcases_Fernando_Caldas.png?raw=true" alt="Fernando Caldas Banner" style="width:100%;"/>
-
-
-
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0A66C2&height=200&section=header&text=Fernando%20Caldas&fontSize=40&fontColor=ffffff&animation=fadeIn" />
+</p>
 
 <h2 align="center">👋 Olá! Eu sou o Fernando Caldas</h2>
 

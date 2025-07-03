@@ -13,36 +13,34 @@
 
 ## 🏅 Certificados
 
-| Certificado                           | Horas | Link                                                                                |
-|-------------------------------------|-------|-------------------------------------------------------------------------------------|
-| 📄 Curso HTML – One Bit Code         | 2h    | [PDF](https://github.com/FernandoCaldas9/FernandoCaldas9/blob/main/certificado_HTML_FernandoCaldasDaSilva%20(1).pdf)          |
-| 📄 Curso HTML5 – One Bit Code        | 12h   | [PDF](https://github.com/FernandoCaldas9/FernandoCaldas9/blob/main/certificado_HTML5_FernandoCaldasDaSilva12h.pdf)             |
-| 📄 Curso CSS3 – One Bit Code         | 14h   | [PDF](https://github.com/FernandoCaldas9/FernandoCaldas9/blob/main/certificado_CSS3_FernandoCaldasDaSilva.pdf)                  |
-| 📄 Curso Start Python – One Bit Code | 3h    | [PDF](https://github.com/FernandoCaldas9/FernandoCaldas9/blob/main/certificado_Start-Python_FernandoCaldasDaSilva.pdf)          |
-| 🛠️ Full Stack Developer – One Bit Code | —     | *(PDF em breve)*                                                                     |
+| Certificado                                         | Horas | Link                                                                                 |
+|----------------------------------------------------|-------|--------------------------------------------------------------------------------------|
+| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="20"/> Curso HTML – One Bit Code                 | 2h    | [PDF](https://github.com/FernandoCaldas9/FernandoCaldas9/blob/main/certificado_HTML_FernandoCaldasDaSilva%20(1).pdf)          |
+| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="20"/> Curso HTML5 – One Bit Code                | 12h   | [PDF](https://github.com/FernandoCaldas9/FernandoCaldas9/blob/main/certificado_HTML5_FernandoCaldasDaSilva12h.pdf)             |
+| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="20"/> Curso CSS3 – One Bit Code                  | 14h   | [PDF](https://github.com/FernandoCaldas9/FernandoCaldas9/blob/main/certificado_CSS3_FernandoCaldasDaSilva.pdf)                  |
+| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="20"/> Curso Start Python – One Bit Code           | 3h    | [PDF](https://github.com/FernandoCaldas9/FernandoCaldas9/blob/main/certificado_Start-Python_FernandoCaldasDaSilva.pdf)          |
+| 🛠️ Full Stack Developer – One Bit Code               | —     | *(PDF em breve)*                                                                     |
 
 ---
 
 ## 🚀 Tecnologias que utilizo
 
-<p align="center">
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-</p>
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 
 ---
 
 ## 📂 Projetos em Destaque
 
-| Projeto           | Descrição                | Tecnologias    |
-|-------------------|--------------------------|---------------|
-| `meu-site-pessoal`| Portfólio com HTML/CSS    | HTML, CSS     |
-| `clone-discord`   | Clone visual do Discord Web | HTML, CSS, JS |
-| `bot-telegram`    | Bot com automações simples | Python        |
+| Projeto       | Descrição               | Tecnologias        |
+|---------------|-------------------------|--------------------|
+| meu-site-pessoal | Portfólio com HTML/CSS | HTML, CSS          |
+| clone-discord | Clone visual do Discord Web | HTML, CSS, JS      |
+| bot-telegram  | Bot com automações simples | Python             |
 
 > 💡 Em breve mais projetos com deploy!
 
@@ -63,18 +61,11 @@
 
 ## 📫 Contato
 
-<p align="center">
-  <a href="mailto:fndcaldas@gmail.com">
-    <img src="https://img.shields.io/badge/Email-fndcaldas@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-  </a>
-  <a href="https://www.linkedin.com/in/fernandocaldas9/">
-    <img src="https://img.shields.io/badge/LinkedIn-Acesse-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn" />
-  </a>
-</p>
+[![Email](https://img.shields.io/badge/Email-fndcaldas@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:fndcaldas@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Acesse-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/seu-usuario)
 
 ---
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=FernandoCaldas9&style=for-the-badge&color=blue" alt="visit-counter"/>
 </p>
-

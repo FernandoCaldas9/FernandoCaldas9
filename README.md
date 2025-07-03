@@ -13,13 +13,11 @@
 
 ## 🏅 Certificados
 
-| Certificado                                         | Horas | Link                                                                                 |
-|----------------------------------------------------|-------|--------------------------------------------------------------------------------------|
-| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="20"/> Curso HTML – One Bit Code                 | 2h    | [PDF](https://github.com/FernandoCaldas9/FernandoCaldas9/blob/main/certificado_HTML_FernandoCaldasDaSilva%20(1).pdf)          |
-| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="20"/> Curso HTML5 – One Bit Code                | 12h   | [PDF](https://github.com/FernandoCaldas9/FernandoCaldas9/blob/main/certificado_HTML5_FernandoCaldasDaSilva12h.pdf)             |
-| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="20"/> Curso CSS3 – One Bit Code                  | 14h   | [PDF](https://github.com/FernandoCaldas9/FernandoCaldas9/blob/main/certificado_CSS3_FernandoCaldasDaSilva.pdf)                  |
-| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="20"/> Curso Start Python – One Bit Code           | 3h    | [PDF](https://github.com/FernandoCaldas9/FernandoCaldas9/blob/main/certificado_Start-Python_FernandoCaldasDaSilva.pdf)          |
-| 🛠️ Full Stack Developer – One Bit Code               | —     | *(PDF em breve)*                                                                     |
+- [📄 Curso HTML – One Bit Code (2hs)](https://github.com/FernandoCaldas9/FernandoCaldas9/blob/main/certificado_HTML_FernandoCaldasDaSilva%20(1).pdf)
+- [📄 Curso HTML5 – One Bit Code (12hs)](https://github.com/FernandoCaldas9/FernandoCaldas9/blob/main/certificado_HTML5_FernandoCaldasDaSilva12h.pdf)
+- [📄 Curso CSS3 – One Bit Code (14hs)](https://github.com/FernandoCaldas9/FernandoCaldas9/blob/main/certificado_CSS3_FernandoCaldasDaSilva.pdf)
+- [📄 Curso Start Python – One Bit Code (3hs)](https://github.com/FernandoCaldas9/FernandoCaldas9/blob/main/certificado_Start-Python_FernandoCaldasDaSilva.pdf)
+- 🛠️ Full Stack Developer – One Bit Code *(PDF em breve)*
 
 ---
 
@@ -36,11 +34,11 @@
 
 ## 📂 Projetos em Destaque
 
-| Projeto       | Descrição               | Tecnologias        |
-|---------------|-------------------------|--------------------|
-| meu-site-pessoal | Portfólio com HTML/CSS | HTML, CSS          |
-| clone-discord | Clone visual do Discord Web | HTML, CSS, JS      |
-| bot-telegram  | Bot com automações simples | Python             |
+| Projeto           | Descrição                  | Tecnologias     |
+|-------------------|----------------------------|-----------------|
+| meu-site-pessoal  | Portfólio com HTML/CSS      | HTML, CSS       |
+| clone-discord     | Clone visual do Discord Web | HTML, CSS, JS   |
+| bot-telegram      | Bot com automações simples  | Python          |
 
 > 💡 Em breve mais projetos com deploy!
 

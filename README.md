@@ -13,10 +13,10 @@
 
 ## 🏅 Certificados
 
-- [📄 Curso HTML – One Bit Code (2hs)](https://github.com/FernandoCaldas9/FernandoCaldas9/blob/main/certificado_HTML_FernandoCaldasDaSilva%20(1).pdf)
-- [📄 Curso HTML5 – One Bit Code (12hs)](https://github.com/FernandoCaldas9/FernandoCaldas9/blob/main/certificado_HTML5_FernandoCaldasDaSilva12h.pdf)
-- [📄 Curso CSS3 – One Bit Code (14hs)](https://github.com/FernandoCaldas9/FernandoCaldas9/blob/main/certificado_CSS3_FernandoCaldasDaSilva.pdf)
-- [📄 Curso Start Python – One Bit Code (3hs)](https://github.com/FernandoCaldas9/FernandoCaldas9/blob/main/certificado_Start-Python_FernandoCaldasDaSilva.pdf)
+- ![HTML](https://img.shields.io/badge/HTML-2%20hs-orange?style=flat-square&logo=html5&logoColor=white) [Curso HTML – One Bit Code (PDF)](https://github.com/FernandoCaldas9/FernandoCaldas9/blob/main/certificado_HTML_FernandoCaldasDaSilva%20(1).pdf)
+- ![HTML5](https://img.shields.io/badge/HTML5-12%20hs-blue?style=flat-square&logo=html5&logoColor=white) [Curso HTML5 – One Bit Code (PDF)](https://github.com/FernandoCaldas9/FernandoCaldas9/blob/main/certificado_HTML5_FernandoCaldasDaSilva12h.pdf)
+- ![CSS3](https://img.shields.io/badge/CSS3-14%20hs-blue?style=flat-square&logo=css3&logoColor=white) [Curso CSS3 – One Bit Code (PDF)](https://github.com/FernandoCaldas9/FernandoCaldas9/blob/main/certificado_CSS3_FernandoCaldasDaSilva.pdf)
+- ![Python](https://img.shields.io/badge/Python-3%20hs-blue?style=flat-square&logo=python&logoColor=white) [Curso Start Python – One Bit Code (PDF)](https://github.com/FernandoCaldas9/FernandoCaldas9/blob/main/certificado_Start-Python_FernandoCaldasDaSilva.pdf)
 - 🛠️ Full Stack Developer – One Bit Code *(PDF em breve)*
 
 ---
@@ -34,11 +34,11 @@
 
 ## 📂 Projetos em Destaque
 
-| Projeto           | Descrição                  | Tecnologias     |
-|-------------------|----------------------------|-----------------|
-| meu-site-pessoal  | Portfólio com HTML/CSS      | HTML, CSS       |
-| clone-discord     | Clone visual do Discord Web | HTML, CSS, JS   |
-| bot-telegram      | Bot com automações simples  | Python          |
+| Projeto           | Descrição                 | Tecnologias       |
+|-------------------|---------------------------|-------------------|
+| meu-site-pessoal  | Portfólio com HTML/CSS     | HTML, CSS         |
+| clone-discord    | Clone visual do Discord Web | HTML, CSS, JS     |
+| bot-telegram     | Bot com automações simples  | Python            |
 
 > 💡 Em breve mais projetos com deploy!
 
@@ -67,3 +67,4 @@
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=FernandoCaldas9&style=for-the-badge&color=blue" alt="visit-counter"/>
 </p>
+

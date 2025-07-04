@@ -34,11 +34,10 @@
 
 ## 📂 Projetos em Destaque
 
-| Projeto           | Descrição                 | Tecnologias       |
-|-------------------|---------------------------|-------------------|
-| meu-site-pessoal  | Portfólio com HTML/CSS     | HTML, CSS         |
-| clone-discord    | Clone visual do Discord Web | HTML, CSS, JS     |
-| bot-telegram     | Bot com automações simples  | Python            |
+| Projeto            | Descrição                                                  | Tecnologias        |
+|--------------------|------------------------------------------------------------|--------------------|
+| bot-telegram       | Bot com automações simples                                  | Python             |
+| Mundo das Focas     | Site informativo sobre focas com design responsivo e animações simples | HTML, CSS |
 
 > 💡 Em breve mais projetos com deploy!
 

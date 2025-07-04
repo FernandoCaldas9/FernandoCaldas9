@@ -36,7 +36,7 @@
 
 | Projeto            | Descrição                                                  | Tecnologias        |
 |--------------------|------------------------------------------------------------|--------------------|
-| bot-telegram       | Bot com automações simples                                  | Python             |
+| bot-telegram       | Bot com automações simples                                  | Py            |
 | [Mundo das Focas](https://github.com/FernandoCaldas9/projeto-mundo-das-focas) | Site informativo sobre focas com design responsivo e animações simples | HTML, CSS |
 
 > 💡 Em breve mais projetos com deploy!

@@ -1,62 +1,55 @@
+<h1 align="center">Fernando Caldas 👨‍💻</h1>
+<h3 align="center">🚀 Software Engineering Student | Full Stack Developer in Progress</h3>
 
-<h1 align="center">Olá, eu sou o Fernando Caldas 👋</h1>
-<p align="center">🚀 Desenvolvedor em formação | Estudante de Engenharia de Software e Full Stack</p>
-
-<p align="center">
-  <a href="mailto:fndcaldas@gmail.com"><img src="https://img.shields.io/badge/Gmail-fndcaldas@gmail.com-D14836?style=flat&logo=gmail&logoColor=white" alt="Email" /></a>
-  <a href="https://github.com/FernandoCaldas9"><img src="https://img.shields.io/github/followers/FernandoCaldas9?style=social" alt="GitHub followers" /></a>
-</p>
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&pause=1000&color=38BDF8&width=435&lines=Estudante+de+Engenharia+de+Software;Desenvolvedor+em+formação+Full+Stack;Apaixonado+por+tecnologia+e+inovação" alt="Typing SVG" />
+</div>
 
 ---
 
-### 👨‍💻 Sobre mim
+### 👤 Sobre Mim
 
 - 🎓 Estudante de **Engenharia de Software**
-- 💻 Atualmente aprendendo **Desenvolvimento Web Full Stack** com foco em projetos práticos
-- 📚 Apaixonado por tecnologia, design, e criação de experiências únicas na web
-- 💡 Explorando projetos com **HTML | CSS | JavaScript | React | Node.js**
+- 💡 Curioso e apaixonado por **tecnologia, design e soluções digitais**
+- 🧠 Estudando **HTML, CSS, JavaScript, React, Node.js** e muito mais
+- 🌍 Criando projetos com foco em usabilidade, performance e boas práticas
+- 📫 Contato: **[fndcaldas@gmail.com](mailto:fndcaldas@gmail.com)**
 
 ---
 
-### 🌐 Technologies & Tools
+### 🚀 Tecnologias & Ferramentas
 
-![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
-![VSCode](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visual-studio-code)
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,git,vscode,figma" />
+</div>
 
 ---
 
-### 📊 GitHub Stats
+### 🔥 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=FernandoCaldas9&show_icons=true&theme=dracula" alt="GitHub stats" />
-</p>
-
----
-
-### 💼 Projetos em Destaque
-
-- [🌊 Mundo das Focas - Projeto Front-End com HTML5 + CSS3 + Vídeo de Fundo](https://github.com/FernandoCaldas9/projeto-mundo-das-focas)
-- Mais projetos em breve...
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=FernandoCaldas9&show_icons=true&theme=tokyonight&hide=prs" width="47%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=FernandoCaldas9&theme=tokyonight&date_format=M%20j%5B%2C%20Y%5D" width="47%" />
+</div>
 
 ---
 
-### ✨ Frase que me inspira
+### 🧩 Projetos em Destaque
 
-> "A persistência é o caminho do êxito." – Charles Chaplin
-
----
-
-### 🌍 In English
-
-Hi there! I'm **Fernando Caldas**, a Software Engineering student passionate about web development, design, and creating interactive user experiences. I'm currently focused on building solid Full Stack skills and contributing to real-world projects. Let’s connect!
+| Projeto | Tecnologias | Link |
+|--------|-------------|------|
+| 🌊 **Mundo das Focas** | HTML, CSS, Vídeo de fundo | [Ver projeto](https://github.com/FernandoCaldas9/projeto-mundo-das-focas) |
+| 🎨 Portfólio Estático | Em construção | em breve... |
 
 ---
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/FernandoCaldas9/FernandoCaldas9/main/img/foca-icon.png" height="80" alt="Seal Icon" />
-</p>
-<p align="center"><em>Feito com ❤️ e muita curiosidade.</em></p>
+### 📈 Em aprendizado
+
+```txt
+🔸 JavaScript Avançado
+🔸 React.js com Hooks e Componentização
+🔸 Git e GitHub Workflows
+🔸 Node.js + Express
+🔸 Banco de dados com MongoDB e PostgreSQL
+
 

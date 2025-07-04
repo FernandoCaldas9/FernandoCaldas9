@@ -1,70 +1,62 @@
-<!-- Banner Animado -->
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0A66C2&height=200&section=header&text=Fernando%20Caldas&fontSize=40&fontColor=ffffff&animation=fadeIn" />
-</p> 
 
-<h2 align="center">👋 Olá! Eu sou o Fernando Caldas</h2>
+<h1 align="center">Olá, eu sou o Fernando Caldas 👋</h1>
+<p align="center">🚀 Desenvolvedor em formação | Estudante de Engenharia de Software e Full Stack</p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=3D5AFE&center=true&vCenter=true&width=440&lines=Estudante+de+Engenharia+de+Software;Full+Stack+em+formação+(OneBitCode);Fluente+em+Espanhol;Apaixonado+por+tecnologia+e+bots" alt="Typing SVG" />
+  <a href="mailto:fndcaldas@gmail.com"><img src="https://img.shields.io/badge/Gmail-fndcaldas@gmail.com-D14836?style=flat&logo=gmail&logoColor=white" alt="Email" /></a>
+  <a href="https://github.com/FernandoCaldas9"><img src="https://img.shields.io/github/followers/FernandoCaldas9?style=social" alt="GitHub followers" /></a>
 </p>
 
 ---
 
-## 🏅 Certificados
+### 👨‍💻 Sobre mim
 
-- ![HTML](https://img.shields.io/badge/HTML-2%20hs-orange?style=flat-square&logo=html5&logoColor=white) [Curso HTML – One Bit Code (PDF)](https://github.com/FernandoCaldas9/FernandoCaldas9/blob/main/certificado_HTML_FernandoCaldasDaSilva%20(1).pdf)
-- ![HTML5](https://img.shields.io/badge/HTML5-12%20hs-blue?style=flat-square&logo=html5&logoColor=white) [Curso HTML5 – One Bit Code (PDF)](https://github.com/FernandoCaldas9/FernandoCaldas9/blob/main/certificado_HTML5_FernandoCaldasDaSilva12h.pdf)
-- ![CSS3](https://img.shields.io/badge/CSS3-14%20hs-blue?style=flat-square&logo=css3&logoColor=white) [Curso CSS3 – One Bit Code (PDF)](https://github.com/FernandoCaldas9/FernandoCaldas9/blob/main/certificado_CSS3_FernandoCaldasDaSilva.pdf)
-- ![Python](https://img.shields.io/badge/Python-3%20hs-blue?style=flat-square&logo=python&logoColor=white) [Curso Start Python – One Bit Code (PDF)](https://github.com/FernandoCaldas9/FernandoCaldas9/blob/main/certificado_Start-Python_FernandoCaldasDaSilva.pdf)
-- 🛠️ Full Stack Developer – One Bit Code *(PDF em breve)*
-
----
-
-## 🚀 Tecnologias que utilizo
-
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+- 🎓 Estudante de **Engenharia de Software**
+- 💻 Atualmente aprendendo **Desenvolvimento Web Full Stack** com foco em projetos práticos
+- 📚 Apaixonado por tecnologia, design, e criação de experiências únicas na web
+- 💡 Explorando projetos com **HTML | CSS | JavaScript | React | Node.js**
 
 ---
 
-## 📂 Projetos em Destaque
+### 🌐 Technologies & Tools
 
-| Projeto           | Descrição                 | Tecnologias       |
-|-------------------|---------------------------|-------------------|
-| meu-site-pessoal  | Portfólio com HTML/CSS     | HTML, CSS         |
-| clone-discord    | Clone visual do Discord Web | HTML, CSS, JS     |
-| bot-telegram     | Bot com automações simples  | Python            |
-
-> 💡 Em breve mais projetos com deploy!
+![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
+![VSCode](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visual-studio-code)
 
 ---
 
-## 📈 GitHub Stats
+### 📊 GitHub Stats
 
 <p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=FernandoCaldas9&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=FernandoCaldas9&theme=tokyonight&hide_border=true" />
-</p>
-
-<p align="center">
-  <img width="60%" src="https://github-readme-activity-graph.cyclic.app/graph?username=FernandoCaldas9&theme=tokyonight&hide_border=true"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=FernandoCaldas9&show_icons=true&theme=dracula" alt="GitHub stats" />
 </p>
 
 ---
 
-## 📫 Contato
+### 💼 Projetos em Destaque
 
-[![Email](https://img.shields.io/badge/Email-fndcaldas@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:fndcaldas@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Acesse-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/seu-usuario)
+- [🌊 Mundo das Focas - Projeto Front-End com HTML5 + CSS3 + Vídeo de Fundo](https://github.com/FernandoCaldas9/projeto-mundo-das-focas)
+- Mais projetos em breve...
+
+---
+
+### ✨ Frase que me inspira
+
+> "A persistência é o caminho do êxito." – Charles Chaplin
+
+---
+
+### 🌍 In English
+
+Hi there! I'm **Fernando Caldas**, a Software Engineering student passionate about web development, design, and creating interactive user experiences. I'm currently focused on building solid Full Stack skills and contributing to real-world projects. Let’s connect!
 
 ---
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=FernandoCaldas9&style=for-the-badge&color=blue" alt="visit-counter"/>
+  <img src="https://raw.githubusercontent.com/FernandoCaldas9/FernandoCaldas9/main/img/foca-icon.png" height="80" alt="Seal Icon" />
 </p>
+<p align="center"><em>Feito com ❤️ e muita curiosidade.</em></p>
 

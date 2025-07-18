@@ -13,11 +13,19 @@
 
 ## 🧠 Sobre mim
 
-- 🎓 Estudante de Engenharia de Software
-- 🚀 Formando em Desenvolvimento Full Stack – One Bit Code
-- 🌍 Fluente em **Espanhol** e aprendendo **Inglês técnico**
-- 🤖 Entusiasta de bots, automações e desenvolvimento web
-- 💼 Sempre em busca de novos desafios e aprendizado constante
+- 🎓 Estudante de Engenharia de Software  
+- 🚀 Formando em Desenvolvimento Full Stack – One Bit Code  
+- 🌍 Fluente em **Espanhol** e aprendendo **Inglês técnico**  
+- 🤖 Entusiasta de bots, automações e desenvolvimento web  
+- 💼 Sempre em busca de novos desafios e aprendizado constante  
+
+---
+
+## 🌐 Acesse Meu Site com Exercícios
+
+📘 Veja meus projetos práticos de HTML, CSS e JS rodando ao vivo:
+
+🔗 [https://fernandocaldas9.github.io/exercicios-html-js](https://fernandocaldas9.github.io/exercicios-html-js)
 
 ---
 
@@ -68,7 +76,7 @@
 
 ## 📫 Contato
 
-[![Email](https://img.shields.io/badge/Email-fndcaldas@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:fndcaldas@gmail.com)
+[![Email](https://img.shields.io/badge/Email-fndcaldas@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:fndcaldas@gmail.com)  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Acesse-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/seu-usuario)
 
 ---

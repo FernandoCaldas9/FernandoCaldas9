@@ -35,6 +35,7 @@
 - ![HTML5](https://img.shields.io/badge/HTML5-12%20hs-blue?style=flat-square&logo=html5&logoColor=white) [Curso HTML5 – One Bit Code (PDF)](https://github.com/FernandoCaldas9/FernandoCaldas9/blob/main/certificado_HTML5_FernandoCaldasDaSilva12h.pdf)
 - ![CSS3](https://img.shields.io/badge/CSS3-14%20hs-blue?style=flat-square&logo=css3&logoColor=white) [Curso CSS3 – One Bit Code (PDF)](https://github.com/FernandoCaldas9/FernandoCaldas9/blob/main/certificado_CSS3_FernandoCaldasDaSilva.pdf)
 - ![Python](https://img.shields.io/badge/Python-3%20hs-blue?style=flat-square&logo=python&logoColor=white) [Curso Start Python – One Bit Code (PDF)](https://github.com/FernandoCaldas9/FernandoCaldas9/blob/main/certificado_Start-Python_FernandoCaldasDaSilva.pdf)
+- ![JavaScript](https://img.shields.io/badge/JavaScript%20I-8%20hs-yellow?style=flat-square&logo=javascript&logoColor=black) [Curso JavaScript I – One Bit Code (PDF)](https://github.com/FernandoCaldas9/FernandoCaldas9/blob/main/certificado_JavaScriptI_FernandoCaldasDaSilva.pdf)
 - 🛠️ Full Stack Developer – One Bit Code *(PDF em breve)*
 
 ---
@@ -84,6 +85,5 @@
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=FernandoCaldas9&style=for-the-badge&color=blue" alt="visit-counter"/>
 </p>
-
 
 

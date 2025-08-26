@@ -23,10 +23,10 @@
 
 ## 🌐 Acesse Meu Site com Exercícios
 
-📘 Veja meus projetos práticos de C++, HTML, CSS e JS rodando ao vivo:
+📘 Veja meus projetos práticos de  HTML, CSS e JS rodando ao vivo:
 
 🔗 [https://fernandocaldas9.github.io/exercicios-html-js](https://fernandocaldas9.github.io/exercicios-html-js)
-🔗  [https://github.com/FernandoCaldas9/exercicios.c]
+
 
 ---
 
